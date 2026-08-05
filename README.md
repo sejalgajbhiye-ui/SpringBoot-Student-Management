@@ -373,28 +373,23 @@ http://localhost:8080
 
 The APIs can be tested using **Postman**.
 
-Recommended screenshots to add:
+## 📸 API Screenshots
 
-* Get All Students
-* Get Student By ID
-* Add Student
-* Update Student
-* Partial Update Student
-* Delete Student
+### Get All Students
 
-Create a folder in the project:
+![Get All Students](screenshots/get_all_students.png)
 
-```text
-screenshots/
-```
+### Add Student
 
-Then add your screenshots.
+![Add Student](screenshots/add_student.png)
 
-Example:
+### Update Student
 
-```markdown
-![Get All Students](screenshots/get-all-students.png)
-```
+![Update Student](screenshots/update_student_all_info.png)
+
+### Delete Student
+
+![Delete Student](screenshots/delete_student.png)
 
 ## 📚 Concepts Implemented
 
@@ -415,7 +410,6 @@ This project demonstrates practical implementation of:
 * Request validation
 * HTTP status codes
 * `ResponseEntity`
-* Exception handling
 * Maven
 * Git and GitHub
 
@@ -424,4 +418,5 @@ This project demonstrates practical implementation of:
 **Sejal Gajbhiye**
 
 GitHub:
+
 https://github.com/sejalgajbhiye-ui
